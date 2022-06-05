@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intellij_courses.iml" filepath="$PROJECT_DIR$/.idea/modules/intellij_courses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/000 Welcome/L0000_HelloWorld/intellij_courses.000_Welcome-L0000_HelloWorld.iml" filepath="$PROJECT_DIR$/.idea/modules/000 Welcome/L0000_HelloWorld/intellij_courses.000_Welcome-L0000_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/000 Welcome/L0000_HelloWorld/intellij_courses.000_Welcome-L0000_HelloWorld.main.iml" filepath="$PROJECT_DIR$/.idea/modules/000 Welcome/L0000_HelloWorld/intellij_courses.000_Welcome-L0000_HelloWorld.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/000 Welcome/L0000_HelloWorld/intellij_courses.000_Welcome-L0000_HelloWorld.test.iml" filepath="$PROJECT_DIR$/.idea/modules/000 Welcome/L0000_HelloWorld/intellij_courses.000_Welcome-L0000_HelloWorld.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/intellij_courses.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/intellij_courses.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/intellij_courses.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/intellij_courses.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/intellij_courses.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/intellij_courses.util.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/000 Welcome/L0000_HelloWorld/build/
+/000 Welcome/L0000_HelloWorld/out/
+/000 Welcome/L0000_HelloWorld/out/production/classes/

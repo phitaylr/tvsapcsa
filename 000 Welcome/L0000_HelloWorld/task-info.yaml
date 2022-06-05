@@ -1,0 +1,12 @@
+type: output
+files:
+- name: test/output.txt
+  visible: false
+- name: src/L0000_HelloWorld.java
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 125
+    placeholder_text: |-
+      /* TODO */
+      This is where you'll enter your solution to the lab. Don't forget, it is named L0000_HelloWorld.java, so that should also be your class name.
